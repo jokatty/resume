@@ -22,7 +22,7 @@ Project | Description | :gear: Technologies
 [The Journal](http://github.com) | Node.js/express web app lets the users write and publish blogs | ES6, Node.js, ejs, MongoDB
 
 ## Experiences
-## Software Developement Experience :computer: 
+## Software Development Experience :computer: 
 Rocket Academy | Software Engineering | Feb'21 - current | Singapore\
 App Brewery | Software Engineering | Oct'20 - Jan'21\
 Self-learning | Programming, computer Science | Apr'20 - Sep'20\
@@ -34,7 +34,7 @@ Solutions Infini | Global Business Development Manager | May'16- Jun'17 | Bangal
 
 
 ## Interests
-Nonfiction [books](goodreads.com/review/list/112007201-jyoti?ref=nav_mybooks&shelf=read) :open_book:\
+Nonfiction [books](https://www.goodreads.com/user/show/112007201-jyoti) :open_book:\
 Tennis :tennis:\
 pool\
 Yoga :lotus_position_woman:
